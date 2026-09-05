@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="司马简霖 · AI 产品经理。从问题出发，把 AI 做进真实场景。" src="assets/hero-light.svg" width="100%">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-animated-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-animated-light.svg">
+  <img alt="司马简霖 · AI 产品经理。从问题出发，把 AI 做进真实场景。" src="assets/hero-animated-light.svg" width="100%">
 </picture>
 
 # 你好，我是司马简霖
