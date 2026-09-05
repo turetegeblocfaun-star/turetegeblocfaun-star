@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="448" viewBox="0 0 1280 448" role="img" aria-labelledby="title desc">
+<title id="title">司马简霖 · AI 产品经理</title>
+<desc id="desc">从问题出发，把 AI 做进真实场景。学习工具、业务分析、开源 Skills 与产品写作。</desc>
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#CDD2C5"/></pattern></defs>
+<rect width="1280" height="448" rx="20" fill="#F6F4EC"/>
+<rect x="840" y="0" width="440" height="448" fill="url(#dots)"/>
+<path d="M52 80H1228M52 376H1228" stroke="#D8DDD2"/>
+<circle cx="66" cy="44" r="13" fill="#213C38"/>
+<path d="M60 44H72M66 38V50" stroke="#F6F4EC" stroke-width="2"/>
+<g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">
+<text x="94" y="53" fill="#213C38" font-size="25" font-weight="650">司马简霖</text>
+<text x="227" y="51" fill="#596963" font-family="'SFMono-Regular',Consolas,monospace" font-size="16">/ AI PRODUCT MANAGER</text>
+<text x="1228" y="51" text-anchor="end" fill="#596963" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="2">A WORK IN PROGRESS</text>
+<text x="52" y="162" fill="#213C38" font-size="62" font-weight="650" letter-spacing="-1">从问题出发，</text>
+<text x="52" y="243" fill="#213C38" font-size="62" font-weight="650" letter-spacing="-1">把 AI 做进真实场景<tspan fill="#BE542F">。</tspan></text>
+<text x="54" y="299" fill="#596963" font-size="22">学习工具 · 业务分析 · 开源 Skills · 产品写作</text>
+<rect x="54" y="324" width="72" height="4" rx="2" fill="#BE542F"/>
+<rect x="138" y="324" width="32" height="4" rx="2" fill="#D8DDD2"/>
+<rect x="182" y="324" width="16" height="4" rx="2" fill="#D8DDD2"/>
+<path d="M930 136V306" stroke="#D8DDD2" stroke-width="2"/>
+<circle cx="930" cy="133" r="22" fill="#FDFCFA" stroke="#BE542F" stroke-width="1.5"/>
+<text x="930" y="139" text-anchor="middle" fill="#BE542F" font-size="16" font-family="'SFMono-Regular',Consolas,monospace">01</text>
+<text x="971" y="131" fill="#213C38" font-size="22" font-weight="550">发现具体问题</text>
+<text x="971" y="156" fill="#596963" font-family="'SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="2">DISCOVER</text>
+<circle cx="930" cy="218" r="22" fill="#FDFCFA" stroke="#BE542F" stroke-width="1.5"/>
+<text x="930" y="224" text-anchor="middle" fill="#BE542F" font-size="16" font-family="'SFMono-Regular',Consolas,monospace">02</text>
+<text x="971" y="216" fill="#213C38" font-size="22" font-weight="550">推进产品实践</text>
+<text x="971" y="241" fill="#596963" font-family="'SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="2">BUILD</text>
+<circle cx="930" cy="303" r="22" fill="#FDFCFA" stroke="#BE542F" stroke-width="1.5"/>
+<text x="930" y="309" text-anchor="middle" fill="#BE542F" font-size="16" font-family="'SFMono-Regular',Consolas,monospace">03</text>
+<text x="971" y="301" fill="#213C38" font-size="22" font-weight="550">留下方法与思考</text>
+<text x="971" y="326" fill="#596963" font-family="'SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="2">SHARE</text>
+<text x="54" y="416" fill="#596963" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="2">PRODUCTS / TOOLS / FIELD NOTES</text>
+<text x="1226" y="416" text-anchor="end" fill="#BE542F" font-size="17">从一个具体问题开始。</text>
+</g></svg>
