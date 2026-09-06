@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">司马简霖 · AI 产品经理</title><desc id="desc">持续动画：光球浮动、缩放与变色，轨道光点循环运动。点击进入完整动态作品集。</desc>
+<style>
+.sphere-drift { animation: drift 5s ease-in-out infinite; }
+.sphere-breathe { transform-origin:680px 328px; animation: breathe 5s ease-in-out infinite; }
+.colors { transform-origin:680px 328px; animation: color-spin 6s linear infinite; }
+.orbit-fast { transform-origin:680px 328px; animation: orbit 5s linear infinite; }
+.orbit-slow { transform-origin:680px 328px; animation: orbit 8s linear infinite reverse; }
+.orbit-dashes { animation: flow 5s linear infinite; }
+.one,.two,.three { animation: arrive .8s ease-out both; }
+.two { animation-delay:.12s; }.three { animation-delay:.24s; }
+.cta-arrow { animation: nudge 1.7s ease-in-out infinite; }
+.live-dot { animation: pulse 2s ease-in-out infinite; }
+@keyframes drift { 0%,100% { transform:translate(-30px,-10px); } 25% { transform:translate(0px,-28px); } 50% { transform:translate(32px,10px); } 75% { transform:translate(0px,26px); } }
+@keyframes breathe { 0%,100% { transform:scale(.93); } 50% { transform:scale(1.07); } }
+@keyframes color-spin { from { transform:rotate(0deg); } to { transform:rotate(360deg); } }
+@keyframes orbit { from { transform:rotate(0deg); } to { transform:rotate(360deg); } }
+@keyframes flow { to { stroke-dashoffset:-160; } }
+@keyframes arrive { from { opacity:0;transform:translateY(18px); } to { opacity:1;transform:translateY(0); } }
+@keyframes nudge { 0%,100% { transform:translate(0,0); } 50% { transform:translate(9px,-4px); } }
+@keyframes pulse { 0%,100% { opacity:.35; } 50% { opacity:1; } }
+@media(prefers-reduced-motion:reduce) { .sphere-drift,.sphere-breathe,.colors,.orbit-fast,.orbit-slow,.orbit-dashes,.one,.two,.three,.cta-arrow,.live-dot { animation:none; } }
+</style>
+<defs><linearGradient id="spectrum" x1="100%" y1="0%" x2="10%" y2="90%"><stop stop-color="#8b7029"/><stop offset=".34" stop-color="#824364"/><stop offset=".68" stop-color="#305f78"/><stop offset="1" stop-color="#3e403e"/></linearGradient><radialGradient id="glow" cx="22%" cy="60%" r="75%"><stop stop-color="#3e403e" stop-opacity=".55"/><stop offset=".65" stop-color="#3e403e" stop-opacity=".1"/><stop offset="1" stop-color="#3e403e" stop-opacity="0"/></radialGradient><clipPath id="orb"><circle cx="680" cy="328" r="228"/></clipPath></defs>
+<rect width="1280" height="640" fill="#232321"/>
+<g fill="none" stroke="#e5e4e0"><circle cx="680" cy="328" r="276" stroke-opacity=".18"/><circle class="orbit-dashes" cx="680" cy="328" r="291" stroke-opacity=".22" stroke-dasharray="4 12"/></g>
+<g class="orbit-fast" fill="none" stroke="#e5e4e0"><circle cx="680" cy="328" r="276" stroke-width="2.5" stroke-opacity=".52" stroke-dasharray="170 1564"/><circle cx="956" cy="328" r="8" fill="#e5e4e0" stroke="#232321" stroke-width="3"/><circle cx="404" cy="328" r="5" fill="#e5e4e0" stroke="#232321" stroke-width="2"/></g>
+<g class="orbit-slow"><circle cx="680" cy="37" r="7" fill="#232321" stroke="#e5e4e0" stroke-width="2"/><circle cx="680" cy="619" r="4" fill="#e5e4e0"/></g>
+<g class="sphere-drift"><g class="sphere-breathe"><g clip-path="url(#orb)"><rect class="colors" x="352" y="0" width="656" height="656" fill="url(#spectrum)"/><circle cx="680" cy="328" r="228" fill="url(#glow)"/></g></g></g>
+<g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" fill="#e5e4e0">
+<text x="42" y="51" font-size="25">司马简霖 ＋</text><text x="248" y="49" font-size="13" letter-spacing=".5">AI PRODUCT MANAGER</text>
+<text x="1236" y="49" font-size="13" text-anchor="end" letter-spacing="1">PRODUCTS / SKILLS / WRITING</text>
+<text class="one" x="100" y="214" font-size="81" letter-spacing="-4">从问题出发，</text>
+<text class="two" x="860" y="367" font-size="101" letter-spacing="-3">让 AI</text>
+<text class="three" x="183" y="527" font-size="81" letter-spacing="-4">走进真实场景。</text>
+<circle class="live-dot" cx="47" cy="605" r="4"/><text x="65" y="610" font-size="14" fill="#b9b9b2">司马简霖 · AI 产品经理</text><text x="1200" y="610" font-size="17" text-anchor="end">进入完整动态作品集</text><text class="cta-arrow" x="1212" y="610" font-size="22">↗</text>
+</g></svg>
