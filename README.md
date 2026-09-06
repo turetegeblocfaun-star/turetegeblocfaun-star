@@ -1,10 +1,12 @@
+<a href="https://sima-jianlin.turetegeblocfaun.chatgpt.site">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-animated-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-animated-light.svg">
-  <img alt="司马简霖 · AI 产品经理。从问题出发，把 AI 做进真实场景。" src="assets/hero-animated-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-portfolio-light.svg">
+  <img alt="司马简霖 · AI 产品经理。点击进入完整动态作品集。" src="assets/hero-portfolio-light.svg" width="100%">
 </picture>
+</a>
+
+**[进入我的动态作品集 ↗](https://sima-jianlin.turetegeblocfaun.chatgpt.site)**
 
 # 你好，我是司马简霖
 
