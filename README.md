@@ -1,8 +1,8 @@
 <a href="https://sima-jianlin.turetegeblocfaun.chatgpt.site">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-portfolio-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-portfolio-light.svg">
-  <img alt="司马简霖 · AI 产品经理。点击进入完整动态作品集。" src="assets/hero-portfolio-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-orbit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-orbit-light.svg">
+  <img alt="司马简霖 · AI 产品经理。点击进入完整动态作品集。" src="assets/hero-orbit-light.svg" width="100%">
 </picture>
 </a>
 
