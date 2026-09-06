@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">司马简霖 · AI 产品经理</title><desc id="desc">从问题出发，让 AI 走进真实场景。点击进入完整动态作品集。</desc>
+<style>.colors{transform-origin:680px 328px;animation:turn 20s ease-in-out infinite alternate}.one,.two,.three{animation:arrive 1.1s ease-out both}.two{animation-delay:.15s}.three{animation-delay:.3s}.pulse{animation:pulse 3s ease-in-out infinite}@keyframes turn{from{transform:rotate(-20deg) scale(1.1)}to{transform:rotate(35deg) scale(1.18)}}@keyframes arrive{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.colors,.one,.two,.three,.pulse{animation:none}}</style>
+<defs><linearGradient id="spectrum" x1="100%" y1="0%" x2="10%" y2="90%"><stop stop-color="#ffcf36"/><stop offset=".34" stop-color="#efaaca"/><stop offset=".68" stop-color="#8bc7ec"/><stop offset="1" stop-color="#fcf4e7"/></linearGradient><radialGradient id="glow" cx="22%" cy="60%" r="75%"><stop stop-color="#fcf4e7" stop-opacity=".92"/><stop offset=".65" stop-color="#fcf4e7" stop-opacity=".1"/><stop offset="1" stop-color="#fcf4e7" stop-opacity="0"/></radialGradient><clipPath id="orb"><circle cx="680" cy="328" r="228"/></clipPath></defs>
+<rect width="1280" height="640" fill="#e5e4e0"/>
+<g fill="none" stroke="#1d1d1d" stroke-opacity=".12"><circle cx="680" cy="328" r="276"/><circle cx="680" cy="328" r="291" stroke-dasharray="2 4"/></g>
+<g clip-path="url(#orb)"><rect class="colors" x="352" y="0" width="656" height="656" fill="url(#spectrum)"/><circle cx="680" cy="328" r="228" fill="url(#glow)"/></g>
+<g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" fill="#1d1d1d">
+<text x="42" y="51" font-size="25">司马简霖 ＋</text><text x="248" y="49" font-size="13" letter-spacing=".5">AI PRODUCT MANAGER</text>
+<text x="1236" y="49" font-size="13" text-anchor="end" letter-spacing="1">PRODUCTS / SKILLS / WRITING</text>
+<text class="one" x="100" y="214" font-size="81" letter-spacing="-4">从问题出发，</text>
+<text class="two" x="860" y="367" font-size="101" letter-spacing="-3">让 AI</text>
+<text class="three" x="183" y="527" font-size="81" letter-spacing="-4">走进真实场景。</text>
+<circle class="pulse" cx="47" cy="605" r="4"/><text x="65" y="610" font-size="14" fill="#60605b">司马简霖 · AI 产品经理</text><text x="1236" y="610" font-size="17" text-anchor="end">进入完整动态作品集 ↗</text>
+</g></svg>
