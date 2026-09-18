@@ -16,7 +16,7 @@
 
 我关心一个功能能否帮用户完成具体的事：材料能不能变成下一次复习，数据能不能支撑一次判断，模型的输出能不能找到依据。
 
-**[体验「笨」人学习](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login)** · [查看开源作品](https://github.com/turetegeblocfaun-star?tab=repositories) · [阅读文章](#writing) · [邮件联系](mailto:xsp081024@163.com)
+**[体验「笨」人学习](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login)** · [了解书中人](projects/shuzhongren.md) · [了解音乐桌宠](projects/music-desktop-pet.md) · [查看开源作品](https://github.com/turetegeblocfaun-star?tab=repositories) · [阅读文章](#writing) · [邮件联系](mailto:xsp081024@163.com)
 
 <br>
 
@@ -46,6 +46,34 @@
 
 [阅读方案摘要 ↗](projects/iot-data-analysis.md)
 
+### 书中人
+
+**和 AI 一起写中文故事的共创工作台 · 可本地体验的产品原型**
+
+从一句灵感开始，逐步搭建故事世界、人物和开局。用户掌握主角的行动与选择，AI 让世界回应，让人物带着关系和记忆进入剧情，在关键处停下来等待用户参与。
+
+- **对话式共创**：用行动、对白和选择推动故事，随时修订设定。
+- **有来处的故事**：通过人物记忆和世界时间线，回看并整理已经发生的事。
+- **可以继续的创作**：支持保存、刷新恢复和作品导出，下次回来接着写。
+
+[查看项目与本地体验方式 ↗](https://github.com/Torch-ju/0910--) · [阅读项目说明](projects/shuzhongren.md)
+
+<sub>当前为本地原型，尚未提供公网体验或云端同步；真实模型需在本机配置。</sub>
+
+### 音乐桌宠 · MeloPet
+
+**让歌单变成驻留桌面的音灵 · 已完成跨平台本地演示包**
+
+导入自己的歌单，查看并纠正歌曲氛围分类，再生成、选择个性化音灵，把它放到桌面。桌宠支持待机、聆听、跳舞和睡觉，在浏览器最小化后仍可继续陪伴。
+
+- **从音乐到形象**：歌单导入 → 氛围画像 → 音灵候选 → 桌面驻留。
+- **真正的桌面交互**：透明置顶、拖拽、动作切换、托盘菜单和低动态模式。
+- **跨平台演示**：提供 macOS / Windows 一键启动包，不配置外部模型密钥也能完成核心演示。
+
+[阅读项目说明 ↗](projects/music-desktop-pet.md) · [申请演示体验](mailto:xsp081024@163.com?subject=MeloPet%20%E6%BC%94%E7%A4%BA%E4%BD%93%E9%AA%8C)
+
+<sub>源码和演示下载包保持私有；歌曲氛围画像不用于判断用户的心理、性格或健康状态。</sub>
+
 <br>
 
 ## 02 / 开源方法与工具
@@ -55,7 +83,6 @@
 | 作品 | 用来做什么 |
 | :--- | :--- |
 | [**AI 产品经理 Skill**](https://github.com/turetegeblocfaun-star/peng-ai-product-manager-skill) | 从产品发现、PRD 到 AI 方案、评测与交付，组织产品全流程工作。 |
-| [**AI 产品拆解 Skill**](https://github.com/turetegeblocfaun-star/peng-ai-product-teardown-skill) | 从真实页面与用户旅程出发，分析工作流、Agent 和产品架构。 |
 | [**中文写作 Skill**](https://github.com/turetegeblocfaun-star/peng-chinese-writing-skill) | 共创选题、组织材料、写作与改稿，覆盖文章、教程、评测和口播等场景。 |
 | [**专业笔记 Skill**](https://github.com/turetegeblocfaun-star/peng-professional-notes-skill) | 整理会议与课堂材料，提炼知识，衔接 Obsidian、Wiki 和 Canvas 等笔记形式。 |
 
