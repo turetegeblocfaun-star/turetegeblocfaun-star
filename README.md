@@ -16,7 +16,7 @@
 
 我关心一个功能能否帮用户完成具体的事：材料能不能变成下一次复习，数据能不能支撑一次判断，模型的输出能不能找到依据。
 
-**[体验「笨」人学习](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login)** · [了解书中人](projects/shuzhongren.md) · [了解音乐桌宠](projects/music-desktop-pet.md) · [查看开源作品](https://github.com/turetegeblocfaun-star?tab=repositories) · [阅读文章](#writing) · [邮件联系](mailto:xsp081024@163.com)
+**[了解「笨」人学习](projects/benren-learning.md)** · [了解书中人](projects/shuzhongren.md) · [了解音乐桌宠](projects/music-desktop-pet.md) · [查看开源作品](https://github.com/turetegeblocfaun-star?tab=repositories) · [阅读文章](#writing) · [邮件联系](mailto:xsp081024@163.com)
 
 <br>
 
@@ -24,7 +24,7 @@
 
 ### “笨”人学习
 
-**AI 课后复习与查漏补缺平台 · 已上线，邀请制试点**
+**AI 课后复习与查漏补缺平台 · 源码已公开，可本地运行**
 
 面向愿意投入、但缺少有效复习方法的学习者。把课后材料整理成笔记与知识结构，再通过引导式答疑、练习和错题复习，帮助用户找到下一步该学什么。
 
@@ -32,9 +32,9 @@
 - **有依据的学习输出**：围绕用户选定的材料生成内容，保留来源，方便核对。
 - **让用户参与思考**：Tutor 通过提问与提示引导理解，把学习过程留给用户。
 
-[打开产品 ↗](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login) · [查看源码与本地运行 ↗](https://github.com/turetegeblocfaun-star/benren-learning) · [阅读项目说明](projects/benren-learning.md)
+[查看源码与本地运行 ↗](https://github.com/turetegeblocfaun-star/benren-learning) · [阅读项目说明](projects/benren-learning.md)
 
-<sub>线上试点仍需要邀请码；源码与本地启动说明可直接查看。</sub>
+<sub>火山引擎线上服务已下线；源码与本地启动说明可直接查看。</sub>
 
 ### 物联网 AI 数据分析
 
