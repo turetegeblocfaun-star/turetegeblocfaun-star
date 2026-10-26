@@ -102,6 +102,7 @@
 
 | 文章 | 发表日期 |
 | :--- | :--- |
+| [Coding Agent 和 Personal Agent 有什么区别？从 Codex、dot 讲起](articles/2026-10-17-coding-agent-personal-agent.md) · [公众号原文](https://mp.weixin.qq.com/s/GKCGtFNRL4mpNaXGGTS3CQ) | 2026.10.17 |
 | [苹果起诉 OpenAI 后，我更关心 GPT-6 的行动权](https://mp.weixin.qq.com/s/uNOVtQaBGcMbqoRy-hS7Mw) | 2026.09.05 |
 | [硅谷重新开放模型，最强能力为什么仍要收费](https://mp.weixin.qq.com/s/VJiEW_jfjMac20mRCtEfEw) | 2026.08.16 |
 | [中国开放模型还没有全面领跑，硅谷为什么先坐不住了](https://mp.weixin.qq.com/s/CRdWickaN2U2WLh5ps3bRA) | 2026.08.15 |
