@@ -32,9 +32,9 @@
 - **有依据的学习输出**：围绕用户选定的材料生成内容，保留来源，方便核对。
 - **让用户参与思考**：Tutor 通过提问与提示引导理解，把学习过程留给用户。
 
-[打开产品 ↗](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login) · [阅读项目说明](projects/benren-learning.md)
+[打开产品 ↗](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login) · [查看源码与本地运行 ↗](https://github.com/turetegeblocfaun-star/benren-learning) · [阅读项目说明](projects/benren-learning.md)
 
-<sub>当前需要邀请码；如想体验，可通过邮件联系我。</sub>
+<sub>线上试点仍需要邀请码；源码与本地启动说明可直接查看。</sub>
 
 ### 物联网 AI 数据分析
 
@@ -68,11 +68,11 @@
 
 - **从音乐到形象**：歌单导入 → 氛围画像 → 音灵候选 → 桌面驻留。
 - **真正的桌面交互**：透明置顶、拖拽、动作切换、托盘菜单和低动态模式。
-- **跨平台演示**：提供 macOS / Windows 一键启动包，不配置外部模型密钥也能完成核心演示。
+- **跨平台演示**：提供 macOS / Windows 启动脚本，不配置外部模型密钥也能完成核心演示。
 
-[阅读项目说明 ↗](projects/music-desktop-pet.md) · [申请演示体验](mailto:xsp081024@163.com?subject=MeloPet%20%E6%BC%94%E7%A4%BA%E4%BD%93%E9%AA%8C)
+[查看源码与本地体验 ↗](https://github.com/turetegeblocfaun-star/melopet) · [阅读项目说明](projects/music-desktop-pet.md)
 
-<sub>源码和演示下载包保持私有；歌曲氛围画像不用于判断用户的心理、性格或健康状态。</sub>
+<sub>源码已公开，启动脚本在本机准备依赖；歌曲氛围画像不用于判断用户的心理、性格或健康状态。</sub>
 
 <br>
 

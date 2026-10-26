@@ -2,7 +2,7 @@
 
 > AI 课后复习与查漏补缺平台。MVP 已上线，当前处于受控邀请试点。
 
-[打开产品](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login) · [联系司马简霖](mailto:xsp081024@163.com) · [返回主页](../README.md)
+[打开产品](https://sr9rtrj3qbdm2junbffg4.apigateway-cn-beijing.volceapi.com/login) · [联系司马简霖](mailto:xsp081024@163.com) · [查看源码与本地运行](https://github.com/turetegeblocfaun-star/benren-learning) · [返回主页](../README.md)
 
 ## 从什么问题出发
 
@@ -44,4 +44,4 @@ Tutor 通过诊断问题、逐步提示和反例帮助用户形成理解。提�
 - 官方联网补充、外部日历和外部通知尚未开放。
 - 学习效果、长期使用情况与扩大并发后的表现，需要通过持续试点和评测验证。
 
-本页根据 2026 年 9 月 4 日的项目 PRD v2.9.0 整理，并于 9 月 6 日确认公开登录页可访问。它是公开项目介绍，不代表对全部线上功能进行了独立复验；暂不提供源代码或完整内部 PRD。
+本页根据 2026 年 9 月 4 日的项目 PRD v2.9.0 整理，并于 2026 年 10 月 26 日更新公开源码入口。源码仓库包含前后端、数据库迁移、提示词与测试；本地配置和启动方式见仓库 README。线上邀请码、生产密钥和用户学习数据不随源码提供。
